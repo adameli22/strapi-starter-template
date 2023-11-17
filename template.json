@@ -1,0 +1,9 @@
+{
+  "package": {
+    "dependencies": {
+      "@strapi/plugin-seo": "^1.9.6",
+      "strapi-plugin-sitemap": "^3.0.6",
+      "strapi-plugin-transformer": "^3.1.2"
+    }
+  }
+}
