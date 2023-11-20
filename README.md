@@ -1,6 +1,6 @@
 ### `starter-template`
 
-this is a Strapi cmd template with essentall plugins and content types to start a new project.
+this is a Strapi CMS template with essentall plugins and content types to start a new project.
 
 content-types:
 
