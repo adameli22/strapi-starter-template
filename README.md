@@ -1,6 +1,7 @@
 ### `starter-template`
 
-this is a Strapi cmd template with essentail plugins and content types.
+this is a Strapi cmd template with essentall plugins and content types to start a new project.
+
 content-types:
 
 - Navbar
