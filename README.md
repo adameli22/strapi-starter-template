@@ -20,3 +20,5 @@ no need to clone just use this command to create a new Strapi project with this 
 ```
 yarn create strapi-app <project-name> --template strapi-starter-template
 ```
+
+After installing. navigate to the `scripts` folder and move the `plugin.js` into the `config` folder
